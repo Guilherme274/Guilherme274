@@ -20,6 +20,35 @@
       <br>SQL
     </td>
    
+    <h4>Tools</h4>
+<table>
+  <tr>
+    <td align="center" width="96">
+        <div href="">
+            <img src="./img/StudioCode.jpg" height="48" alt="Visual Studio Code" />
+        </div>
+      VS Code
+    </td>
+    <td align="center" width="144">
+          <img src="./img/MySQL.jpg" width="80"  alt="MySQL" />
+      MySQL
+    </td>
+    <td align="center" width="96">
+          <img src="./img/Postgre.png" height="50" alt="PostgreSQL" />
+      PostgreSQL
+    </td>
+    <td align="center" width="96">
+          <img src="./img/Server.png" height="48" alt="SQL Server" />
+      SQL Server
+    </td>
+     <td align="center" width="96">
+          <img src="./img/PowerArc.jpg" height="48" alt="SQL Power Architect" />
+      SQL Power Architect
+    </td>
+  </tr>
+</table>
+
+    
   </tr>
 </table><br>
 <h3> 🔗 Connect with me </h3> <br>
