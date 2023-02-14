@@ -19,7 +19,7 @@
         <img src="./img/SQL.jpg" height="48" title="SQL" />
       <br>SQL
     </td>
-   
+   </table>
 <h4>Tools</h4>
 <table>
   <tr>
