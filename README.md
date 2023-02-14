@@ -9,11 +9,11 @@
       <br>C#
     </td>
     <td align="center" width="96">
-        <img src="./img/python.jpeg"  height="48" alt="Python" />
+        <img src="./img/python.jpg"  height="48" alt="Python" />
       <br>Python
     </td>
     <td align="center" width="144">
-        <img src="./img/SQL.jpeg" height="48" title="SQL" />
+        <img src="./img/SQL.jpg" height="48" title="SQL" />
       <br>SQL
     </td>
    
