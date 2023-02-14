@@ -5,7 +5,7 @@
 <table>
   <tr>
     <td align="center" width="96">
-        <img src="./img/C.jpg" height="48" title="c"/>
+        <img src="./img/C.jpg" height="48" title="C#"/>
       <br>C#
     </td>
     <td align="center" width="96">
