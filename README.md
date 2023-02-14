@@ -1,5 +1,7 @@
+<p>Olá eu sou o Guilherme.Sou um jovem estudante de programação, Estudante da ETEC no curso de Jogos Digitais.Este é o meu Git Hub, local onde faço as postagens recén finalizados ou em fase de finalização. Espero que goste.<\p>
 
-<h3>🛠 My skills</h3>
+
+<h3>🛠 Minhas habilidades </h3>
 <!-- ****************** Tecnologies ****************** -->
 <h4>Technologies</h4>
 <table>
@@ -19,7 +21,7 @@
    
   </tr>
 </table><br>
-<h3> 🔗 Connect with me</h3> <br>
+<h3> 🔗 Connect with me </h3> <br>
 <a href=https://www.linkedin.com/in/guilherme-paix%C3%A3o- target="_blank">
     <img height="25" src="https://img.shields.io/badge/Guilherme_Paixao-0077B5?style=flat&logo=linkedin&logoColor=white" alt="Linkedin - /guilherme-paixão"/>
 </a>&ensp;&ensp;
