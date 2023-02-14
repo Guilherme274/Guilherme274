@@ -1,4 +1,4 @@
-<p>Olá eu sou o Guilherme.Sou um jovem estudante de programação, Estudante da ETEC no curso de Jogos Digitais.Este é o meu Git Hub, local onde faço as postagens recén finalizados ou em fase de finalização. Espero que goste.<\p>
+<p><h1>Olá eu sou o Guilherme.Sou um jovem estudante de programação, Estudante da ETEC no curso de Jogos Digitais.Este é o meu Git Hub, local onde faço as postagens recén finalizados ou em fase de finalização. Espero que goste.<\h1><\p>
 
 
 <h3>🛠 Minhas habilidades </h3>
