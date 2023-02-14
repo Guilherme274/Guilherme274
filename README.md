@@ -9,7 +9,7 @@
       <br>C#
     </td>
     <td align="center" width="96">
-        <img src="./img/python.jpg.jpg"  height="48" alt="Python" />
+        <img src="./img/python.jpg"  height="48" alt="Python" />
       <br>Python
     </td>
     <td align="center" width="144">
