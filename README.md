@@ -56,8 +56,8 @@
 <a href=https://www.linkedin.com/in/guilherme-paix%C3%A3o- target="_blank">
     <img height="25" src="https://img.shields.io/badge/Guilherme_Paixao-0077B5?style=flat&logo=linkedin&logoColor=white" alt="Linkedin - /guilherme-paixão"/>
 </a>&ensp;&ensp;
-<a href="paixaoguilherme79@gmail.com" target="_blank">
-    <img height="25" src="https://mail.google.com/mail/u/0/#sent?compose=CllgCJlLXKNXDrTVghlBkvPqtNbqRMkfRDdFdGdHlSGzQPKFwBctSvwdzSqcPlHKPQHrZFfcxdqstyle=flat&logo=gmail&logoColor=white" alt="Gmail - paixaoguilherme79@gmail.com"/>
+<a href="https://mail.google.com/mail/u/0/#sent?compose=CllgCJlLXKNXDrTVghlBkvPqtNbqRMkfRDdFdGdHlSGzQPKFwBctSvwdzSqcPlHKPQHrZFfcxdq" target="_blank">
+    <img height="25" src="https://img.shields.io/badge/mail/u/0/#sent?compose=CllgCJlLXKNXDrTVghlBkvPqtNbqRMkfRDdFdGdHlSGzQPKFwBctSvwdzSqcPlHKPQHrZFfcxdqstyle=flat&logo=gmail&logoColor=white" alt="Gmail - paixaoguilherme79@gmail.com"/>
 </a>&ensp;&ensp;
 
 
