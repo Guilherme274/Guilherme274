@@ -1,9 +1,9 @@
 <p><h2>Olá eu sou o Guilherme. Sou um jovem estudante de programação, Aluno da ETEC no curso de Jogos Digitais.
   Este é o meu Git Hub, local onde faço as postagens de meus projetos recém finalizados ou em fase de finalização. Espero que goste.
 
-
 <h3>🛠 Minhas habilidades </h3>
 <!-- ****************** Tecnologies ****************** -->
+
 <h4>Technologies</h4>
 <table>
   <tr>
@@ -20,7 +20,7 @@
       <br>SQL
     </td>
    
-    <h4>Tools</h4>
+<h4>Tools</h4>
 <table>
   <tr>
     <td align="center" width="96">
