@@ -21,7 +21,7 @@
       <br>SQL
     </td>
    </table>
-<h4>Tools</h4>
+<h4>Ferramentas</h4>
 <table>
   <tr>
     <td align="center" width="96">
