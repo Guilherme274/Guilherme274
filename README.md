@@ -5,7 +5,7 @@
 <h3>🛠 Minhas habilidades </h3>
 <!-- ****************** Tecnologies ****************** -->
 
-<h4>Technologies</h4>
+<h4>Tecnologias</h4>
 <table>
   <tr>
     <td align="center" width="96">
