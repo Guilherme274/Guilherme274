@@ -20,6 +20,10 @@
         <img src="./img/SQL.jpg" height="48" title="SQL" />
       <br>SQL
     </td>
+    <td align="center" width="96">
+          <img src="./img/LINQ.jpeg" height="48" alt="Language Integrated On Query" />
+      LINQ
+    </td>
    </table>
 <h4>Ferramentas</h4>
 <table>
@@ -45,6 +49,14 @@
      <td align="center" width="96">
           <img src="./img/PowerArc.jpg" height="48" alt="SQL Power Architect" />
       SQL Power Architect
+    </td>
+    <td align="center" width="96">
+          <img src="./img/VS.png" height="48" alt="Visual Studio" />
+      Visual Studio 2022
+    </td>
+    <td align="center" width="96">
+          <img src="./img/BrModelo.jpg" height="48" alt="BrModelo" />
+      BrModelo
     </td>
   </tr>
 </table>
