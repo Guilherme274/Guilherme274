@@ -5,7 +5,7 @@
   </head>
   <body>
     
-<img src="https://readme-typing-svg.herokuapp.com?font=Sixtyfour&pause=50&color=4E71FF&width=1200&height=200&size=28&lines=Hi,+I'm+Guilherme!+Welcome+to+my+profile!;Studying+to+become+a+Full+Stack+Developer!;Improving+my+habilities+with+ASP.NET+Core!">
+<img src="https://readme-typing-svg.herokuapp.com?font=Sixtyfour&pause=50&color=4E71FF&width=1200&height=200&size=28&lines=Hi,+I'm+Guilherme!+Welcome+to+my+profile!;Studying+to+become+a+Full+Stack+Developer!;Improving+my+skills+with+ASP.NET+Core!">
 
 
 ## Skills
