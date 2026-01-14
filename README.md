@@ -14,7 +14,7 @@
 </div>
 
 ## Stats
-  <div align="center">
+  <div>
       <br>
       <img height="180em" src="https://github-readme-stats-ten-alpha-86.vercel.app/api/top-langs/?username=Guilherme274&layout=compact&theme=tokyonight&hide=ShaderLab,HLSL" />
       <img height="180em" src="https://github-readme-stats-ten-alpha-86.vercel.app/api?username=Guilherme274&cache_seconds=1800&show_icons=true&theme=tokyonight&count_private=true&" />
