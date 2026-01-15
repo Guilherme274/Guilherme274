@@ -10,7 +10,7 @@
 
 ## Skills
 <div>
-  <img src="https://skillicons.dev/icons?i=html,css,js,cs,postman,python,git,github">
+  <img src="https://skillicons.dev/icons?i=react,html,css,js,cs,postman,python,git,github">
 </div>
 
 ## Stats
@@ -19,8 +19,6 @@
       <img height="180em" src="https://github-readme-stats-ten-alpha-86.vercel.app/api/top-langs/?username=Guilherme274&layout=compact&theme=tokyonight&hide=ShaderLab,HLSL" />
       <img height="180em" src="https://github-readme-stats-ten-alpha-86.vercel.app/api?username=Guilherme274&cache_seconds=1800&show_icons=true&theme=tokyonight&count_private=true&" />
   </div>
-
-  
 
   <div>
      <h2>Contact Me</h2>
