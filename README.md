@@ -10,7 +10,7 @@
 
 ## Skills
 <div>
-  <img src="https://skillicons.dev/icons?i=react,html,css,js,cs,postman,python,git,github">
+  <img src="https://skillicons.dev/icons?i=react,html,css,js,cs,postman,python,mysql,git,github">
 </div>
 
 ## Stats
