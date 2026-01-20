@@ -8,12 +8,12 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Sixtyfour&pause=50&color=4E71FF&width=1200&height=200&size=28&lines=Hi,+I'm+Guilherme!+Welcome+to+my+profile!;Studying+to+become+a+Full+Stack+Developer!;Improving+my+skills+with+ASP.NET+Core!">
 
 
-## Skills
+## 💻 Skills
 <div>
   <img src="https://skillicons.dev/icons?i=react,html,css,js,cs,postman,python,mysql,git,github">
 </div>
 
-## Stats
+## 📊 Stats
   <div>
       <br>
       <img height="180em" src="https://github-readme-stats-ten-alpha-86.vercel.app/api/top-langs/?username=Guilherme274&layout=compact&theme=tokyonight&hide=ShaderLab,HLSL&count_private=true" />
@@ -38,10 +38,8 @@
    
   <picture align="center">
       <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Guilherme274/Guilherme274/output/github-contribution-grid-snake-dark.svg">
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Guilherme274/Guilherme274/output/github-contribution-grid-snake-dark.svg">
       <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Guilherme274/Guilherme274/output/github-contribution-grid-snake.svg">
   </picture>
 
-   
   </body>
 </html>
