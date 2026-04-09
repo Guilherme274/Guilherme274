@@ -9,7 +9,7 @@
 
 <div align="center">
   <h2>💻 Skills</h2>
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,dotnet,cs,postman,postgresql,git,github">
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,dotnet,cs,postman,mysql,git,github">
 </div>
 
 
